@@ -1,0 +1,11 @@
+# logs and temporary media
+*.log
+/tmp/
+*.png
+*.jpg
+
+# editors / OS
+.DS_Store
+.vscode/
+.idea/
+*.swp
